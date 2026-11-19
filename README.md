@@ -19,7 +19,7 @@ My interests span agentic systems, LLM evaluation and post-training, and neural 
 * 🤖 **Gemini Agent Platform** – Enterprise Agentic AI platform offered by Google
 * 👔 **Adobe CX Enterprise Coworker** – Multi-agent platform for enterprise workflows
 * 🦆 [**Duckietown Feature on Embedded OOD**](https://duckietown.com/vae-based-out-of-distribution-detectors-for-embedded-systems/) – Compressed VAE OOD detection on edge robotics
-* 🏆 **Hackathons** – Winning entries at CMU AutoML Decathlon, Cal Hacks, Microsoft APAC AI , SAP Cloud
+* 🏆 **Hackathons** – Winning entries at [CMU HackAuton](https://autonlab.org/hackAuton/winners/), Cal Hacks, [Microsoft APAC AI](https://www.ntu.edu.sg/computing/news-events/news/detail/finalist-in-microsoft-ai-for-accessibility-hackathon), [SAP Cloud](linkedin.com/posts/ntusg_crowdsourcing-artificialintellience-machinelearning-activity-6809832748312866816-Rz0-/)
   
 ---
 
